@@ -60,6 +60,10 @@ int main()
      Comparaciones con el operador ternario
      */
     
+    /**
+     Veremos como funciona git
+     */
+    
     cout << endl;
     cout << "El empleado con el mejor salario es: ";
         ((E[0].salario < E[1].salario) ?printf("%s %s\n", E[1].nombre, E[1].apellido) :printf("%s %s", E[0].nombre, E[1].apellido));
